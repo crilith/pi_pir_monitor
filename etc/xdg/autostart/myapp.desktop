@@ -1,2 +1,2 @@
 [Desktop Entry]
-Exec=chromium-browser --start-fullscreen http://10.0.0.185/RaspberryPintsLiving/
+Exec=chromium-browser --start-fullscreen --start-maximized --bwsi http://10.0.0.185/RaspberryPintsLiving/
