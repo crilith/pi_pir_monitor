@@ -1,0 +1,2 @@
+[Desktop Entry]
+Exec=chromium-browser --start-fullscreen http://10.0.0.185/RaspberryPintsLiving/
