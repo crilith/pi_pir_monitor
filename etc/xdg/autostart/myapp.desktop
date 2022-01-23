@@ -1,2 +1,2 @@
 [Desktop Entry]
-Exec=chromium-browser --start-fullscreen --start-maximized --bwsi http://domain/RaspberryPints/
+Exec=chromium-browser --start-fullscreen --start-maximized --incognito --kiosk http://domain/RaspberryPints/

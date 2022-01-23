@@ -6,7 +6,7 @@ import RPi.GPIO as io
 import subprocess
 
 io.setmode(io.BOARD)
-DARK_DELAY = 300 #this is where you define after how many seconds you want the display to go dark when there is no motion detected
+DARK_DELAY = 180 #this is where you define after how many seconds you want the display to go dark when there is no motion detected
 PIR_PIN=11 #if you connect to another pin, specify here
 
 def main():
